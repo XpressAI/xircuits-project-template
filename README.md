@@ -10,8 +10,8 @@ A project may have prerequisites such as models that needs to be downloaded or n
 
 ## Installation
 
-```
-pip install -r requirements.txt
+```bash
+bash setup.sh
 ```
 
 ## Updating Xircuits Project Template
