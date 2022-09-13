@@ -13,9 +13,3 @@ A project may have prerequisites such as models that needs to be downloaded or n
 ```bash
 bash setup.sh
 ```
-
-## Updating Xircuits Project Template
-```
-git remote add template https://github.com/XpressAI/xircuits-project-template
-git fetch --all
-```
